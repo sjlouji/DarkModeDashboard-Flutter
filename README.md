@@ -1,7 +1,7 @@
 # Flutter Dark Theme Dashboard UI. 
 
 Flutter Rental App UI. 
-This is a simple flutter application where I have Dark Theme Dashboard UI.
+This is a simple flutter application where I have designed Dark Theme Dashboard UI.
 Created by [Joan Louji](https://joanlouji.web.app/)
 
 ## Installation
